@@ -12,6 +12,7 @@
 
 # ecosystem.config.js Dosyasını oluşturduk içerisine neler yazacağız.
 
+```js
 module.exports = {
     apps: [
       {
@@ -29,6 +30,7 @@ module.exports = {
       }
     ]
 };
+```
 
 **Name, namespace, script, cwd Opsiyonel olarak sizlerin dosyasına göre doldurulabilir.**
 
